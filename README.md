@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Prakash Kumar</h1>
+<h3 align="center">Aspiring Software Engineer | DSA in C++ | Full Stack Developer</h3>
 
-<!--
-**Omprakash-Codes/Omprakash-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Science Student  
+- 💻 Practicing Data Structures & Algorithms in C++  
+- 🌐 Building Full Stack Web Applications  
+- 🚀 Passionate about Problem Solving  
+- 📫 Reach me at: om.prakashh82078@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: C, C++, Java, JavaScript  
+- 🌐 Frontend: HTML, CSS, React  
+- ⚙️ Backend: Node.js, Express  
+- 🗄️ Database: MongoDB  
+- 🔧 Tools: GitHub, VS Code  
+
+---
+
+### 📌 Projects
+- 🔹 Full Stack Web Applications  
+- 🔹 REST API Based Applications  
+- 🔹 Responsive UI Projects  
+
+---
+
+### 📈 Currently Working On
+- Solving DSA Problems  
+- Improving Backend Development  
+- Building Real-World Projects  
+
+---
+
+### 🔗 Connect with Me
+- LinkedIn: www.linkedin.com/in/om-prakash-kumar82
+- Twitter: https://x.com/OmPrakash_cpp
