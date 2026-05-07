@@ -62,3 +62,4 @@
 
 - LinkedIn: www.linkedin.com/in/om-prakash-kumar82
 - Twitter: https://x.com/OmPrakash_cpp
+- Coding platform: https://strikes.in/profile/Om%20Prakash%20Kumar
